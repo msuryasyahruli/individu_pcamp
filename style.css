@@ -3,6 +3,11 @@ html {
     height: auto;
 }
 
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
 p {
-    font-size: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
